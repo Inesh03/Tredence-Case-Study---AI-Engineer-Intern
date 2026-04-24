@@ -1,0 +1,26 @@
+[
+  {
+    "lambda": 0.0001,
+    "test_accuracy": 57.0,
+    "sparsity": 97.56902249963176,
+    "total_gates": 1737984,
+    "gates_near_zero": 1695734,
+    "gates_near_one": 0
+  },
+  {
+    "lambda": 0.0005,
+    "test_accuracy": 57.54,
+    "sparsity": 99.87157534246575,
+    "total_gates": 1737984,
+    "gates_near_zero": 1735752,
+    "gates_near_one": 0
+  },
+  {
+    "lambda": 0.002,
+    "test_accuracy": 57.07,
+    "sparsity": 99.98901025556046,
+    "total_gates": 1737984,
+    "gates_near_zero": 1737793,
+    "gates_near_one": 0
+  }
+]
